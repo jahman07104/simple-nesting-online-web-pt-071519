@@ -122,6 +122,7 @@ def adding_to_dennis
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
+        
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
